@@ -162,3 +162,29 @@ span{
 .button-section{
     padding-left: 200px;
 }
+
+.instagram-section{
+    text-align: center;
+    margin: 100px 200px;
+}
+.instagram-image{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.instagram-image > img {
+    width: 300px;
+    height: 350px;
+}
+.ins-font{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.ins-titel{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
