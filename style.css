@@ -188,3 +188,70 @@ span{
     font-weight: 400;
     line-height: 30px;
 }
+/*  */
+
+.backround-img{
+    /* margin-top: 50px; */
+    /* justify-content: space-between; */
+    /* width: 1440px; */
+    height: 430px;
+    background-image: url("Flower Asset/Rectangle 9.png");
+    display: block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 50px 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+    
+}
+.subscribe-input{
+    padding: 15px 400px 15px 5px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.button-subscribe{
+    padding: 15px 20px;
+    margin-left: 10px;
+    border: none;
+    background-color: #E55473;
+    border-radius: 5px;
+}
+.text-conten{
+    text-align: center;
+ 
+}
+.text-conten > h1{
+    margin-bottom: 20px;
+    color: #272727;
+ font-size: 40px;
+font-weight: 700;
+}
+.text-conten > p {
+    color: rgba(39, 39, 39, 0.60);
+ font-size: 18px;
+ font-weight: 400;
+}
+.footer{
+    background-color: black;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.footer-conten{
+    color: #FFFFFF;
+    text-align: center;
+}
+.footer-conten > p {
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.copy-text-conten{
+    color: #FFFFFF66;
+}
