@@ -147,6 +147,7 @@ body{
     background-color: #E55473;
     color: #FFFFFF;
     border: none;
+    text-align: center;
     
 
  
@@ -219,6 +220,7 @@ span{
     border: none;
     background-color: #E55473;
     border-radius: 5px;
+    
 }
 .text-conten{
     text-align: center;
@@ -254,4 +256,12 @@ font-weight: 700;
 }
 .copy-text-conten{
     color: #FFFFFF66;
+}
+.footer-font-siz{
+    font-size: 50px;
+    
+}
+.bnt-section{
+    border-radius: 5px;
+   
 }
